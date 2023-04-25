@@ -1,2 +1,1 @@
-// 什么都没有留下
-// nothing
+CTF flag: flag{0f96d9a79a959d3988a1398c7a}
